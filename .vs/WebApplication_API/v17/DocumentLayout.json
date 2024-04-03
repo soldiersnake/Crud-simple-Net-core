@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\Desktop\\C#\\WebApplication_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA37FF5B-782C-403C-B3D7-266FD7BA9568}|WebApplication_API\\WebApplication_API.csproj|c:\\users\\maria\\desktop\\c#\\webapplication_api\\webapplication_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CA37FF5B-782C-403C-B3D7-266FD7BA9568}|WebApplication_API\\WebApplication_API.csproj|solutionrelative:webapplication_api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA37FF5B-782C-403C-B3D7-266FD7BA9568}|WebApplication_API\\WebApplication_API.csproj|c:\\users\\maria\\desktop\\c#\\webapplication_api\\webapplication_api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA37FF5B-782C-403C-B3D7-266FD7BA9568}|WebApplication_API\\WebApplication_API.csproj|solutionrelative:webapplication_api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA37FF5B-782C-403C-B3D7-266FD7BA9568}|WebApplication_API\\WebApplication_API.csproj|c:\\users\\maria\\desktop\\c#\\webapplication_api\\webapplication_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA37FF5B-782C-403C-B3D7-266FD7BA9568}|WebApplication_API\\WebApplication_API.csproj|solutionrelative:webapplication_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\C#\\WebApplication_API\\WebApplication_API\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication_API\\.gitignore",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\C#\\WebApplication_API\\WebApplication_API\\.gitignore",
+              "RelativeToolTip": "WebApplication_API\\.gitignore",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwDsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIkSURBVDhPrZTNbhJRFMf/fIYZioHawYQmNekA9QXsxvgEJu7s1r6FGxOepe7tzifQpu5NCrjrEKwLi\u002BkQEJiZO55z7r3ANLrrgd983Dn3fM/gQSRN05y5RLfbfdHr9T6Xy2WkyCFVCZ1FR1AqRbRayhotfDo7\u002B/D\u002B4uLLtziOFS8V\u002BWDF8zw8Pz7GTrWqN7CYC5UqBNfXGI1GcBzn1enp2yRRybuvl5ffyVia12rsRHsP7\u002B4QkPIoCDSjgO4D/Ly5Eb35fE7RKVQc5/Wbk5OXO7WaBLM2xK7Z0HK5QhiGCKdTTTjFlJiRgVrtEXZ3H2O1irBYLKDipEKbxMaWIQqfPDFxFBOREMWa2WwmaZVKJXQ6HezteUgoXSub1Axu1UWz2SSewCP4LPcer2lc19W1oAZY2UREDzi121\u002B3GAz6wnDNAMPhhslkAkVuGSuZrrGx1n4LfrttFlhIWf/X18ViEVf9KxoRvcqyNiSzQnCLx\u002BOxWf23HB09k7lSZtZYMhGxsVZrHwcHT/W9HI3QMysVp4I\u002Bpcv6VinTNanRhGpEdWCkNpbh0DDAb6oRW\u002BAMrKVs1yhc17Fd03j3oe45pMNOt2t0r2s8Rwkinh8zQzFjZkqIY9HjYPi1sZJNjag3GvD9NvxDH4cWP0u93jAR6X0sGUM65xwKhTxR\u002BC\u002B5PH0d\u002BMeR6a3b7Qd\u002BUNvPP57TQ63ANWDPnIJEkMh2cfiHX15x/KAC/AWEMIFHWRIsHAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-03T02:23:20.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\C#\\WebApplication_API\\WebApplication_API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "WebApplication_API\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\C#\\WebApplication_API\\WebApplication_API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "WebApplication_API\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:33:50.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Desktop\\C#\\WebApplication_API\\WebApplication_API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebApplication_API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\maria\\Desktop\\C#\\WebApplication_API\\WebApplication_API\\Models\\Cliente.cs",
+              "RelativeToolTip": "WebApplication_API\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:31:56.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

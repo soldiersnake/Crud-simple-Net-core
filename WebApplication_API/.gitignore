@@ -1,0 +1,59 @@
+# Archivos de configuración de IDE y herramientas
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.vssscc
+*.vspscc
+.vs/
+# Archivos temporales del sistema y de compilación
+bin/
+obj/
+# Paquetes NuGet
+**/packages/*
+# La carpeta `node_modules` donde se almacenan los paquetes de Node.js
+node_modules/
+# Archivos de salida de la publicación
+**/publish/
+# Archivos de la base de datos SQL Server
+*.mdf
+*.ldf
+*.ndf
+# Archivos de configuración que pueden contener secretos
+appsettings*.json
+# Archivos de Visual Studio Code
+.vscode/
+# Archivos y carpetas adicionales generados por dependencias o editores
+*.swp
+*.*~
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/[Tt]est[Rr]esult*/
+**/[Bb]uild[Ll]og.*
+*_ReSharper.*/
+**/*.[Oo]bj/
+**/*.[Bb]in/
+**/*.[Ll]og/
+**/*.[Ss]uo/
+**/*.[Uu]ser/
+**/*.[Pp]ublish.xml
+**/*.psess
+**/*.vsp
+**/*.vspx
+**/*.pdb
+**/*.opendb
+**/*.dbmdl
+**/*.dbproj.schemaview
+**/*.pfx
+**/*.publishsettings
+**/orleans.codegen.cs
+
+# Descomenta si los paquetes de NuGet se agregan al control de versiones
+#!**/packages/*
+
+# Habilita "build/" si compilas la solución
+#build/
+
+# Habilita "docs/" si no deseas incluir la documentación en el control de versiones
+#docs/
